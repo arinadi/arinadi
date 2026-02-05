@@ -1,83 +1,90 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Welcome%20to%20the%20Mainframe&fontSize=70&fontAlignY=40&desc=Initializing%20Developer%20Profile...&descAlignY=60&descAlign=50&animation=twinkling" alt="Header" />
+  <!-- FAST HEADER: Dark & Neon Cyan -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=ARINADI&fontSize=70&fontColor=00f2ff&animation=fadeIn&fontAlignY=40&desc=Gameloft%20JOG%20//%20The%20AI%20Mandor&descAlignY=70&descAlign=50" alt="Header" />
 
-  ### 👾 Web Architect | 🛒 E-Commerce Specialist | 🤖 AI Foreman (Mandor)
-
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_MU&show_icons=true&theme=radical&hide_border=true" alt="Stats" />
-    </a>
-  </p>
-
+  <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Coding+since+2015;Gameloft+E-Commerce+Dev;Mercubuana+Survivor+(2023);Professional+Cat+Servant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=git+blame+-L+12,20+main.php;Gameloft+JOG+Resident+Caffeine+Addict;Mercu+Buana+Survivor+(RIP+Sleep);Senior+Prompt+Engineer+(Mandor+AI)" alt="Typing SVG" />
   </a>
 
 </div>
 
 ---
 
-### 🛸 Transmission Incoming: **The Lore**
+### ⚠️ **WARNING: CONTAINS SATIRE & LEGACY CODE**
 
-> *"I don't just write code; I bully robots into writing it for me."*
+> *"I don't fix bugs. I just explain to the AI why the bug is wrong until it apologizes."*
 
-Welcome to my digital sanctuary. I’ve been weaving the web since **2015**, surviving the era of jQuery spaghetti to the modern age of AI-assisted development.
+Welcome to the profile of a **Web Veteran (est. 2015)** currently stationed at **Gameloft Yogyakarta**. I specialize in E-Commerce solutions, which means I ensure the **"SUBSCRIBE"** button works flawlessly so you can fuel your gacha addiction on a monthly basis.
 
-*   **🏢 The Headquarters:** Currently deployed at **Gameloft** (since 2019) as an **E-Commerce Programmer**. I ensure the digital shops don't explode when you buy your loot boxes.
-*   **🎓 The Academy:** Survived the "Employee Class" grind at **Mercubuana University**, graduating in **2023**. *Achievement Unlocked: Sleep Deprivation Resistance.*
-*   **🦾 The Secret Weapon:** **MANDOR AI**. Why code for 8 hours when you can prompt for 1 and debug for 7? I specialize in orchestrating AI agents to build scalable solutions (and fix my typos).
+*   **📍 Location:** **Gameloft JOG**. (Powered by Gudeg and humidity).
+*   **🎓 Education:** **Mercu Buana University** Class of '23. I took the "Employee Class" route, meaning I worked 9-5 and studied 6-10. My blood type is now *Coffee Positive*.
+*   **💼 Job:** **E-Commerce Programmer**. If the shop breaks, I don't sleep.
 
 ---
 
-### 🛠️ Tech Stack & Arsenals
+### 🤖 **The "Mandor AI" Philosophy**
+
+I have ascended beyond writing syntax. I am now a **Mandor (Foreman)**. I don't code; I orchestrate.
+
+My workflow:
+1.  I stare at the ticket.
+2.  I yell at **ChatGPT**, **Claude**, and **Gemini**.
+3.  I watch them fight over the solution.
+4.  I take credit for the commit.
+
+*(Note: Copilot is too corporate, and Deepseek is... well, I stick to the classics.)*
+
+---
+
+### 🛠️ **Weapons of Mass Construction**
 
 <div align="center">
 
-  <!-- Ganti icon sesuai stack aslimu (PHP, JS, SQL, dll) -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gameloft_Tech-000000?style=for-the-badge&logo=gameloft&logoColor=white" />
+  <!-- Languages with Sarcastic Labels -->
+  <img src="https://img.shields.io/badge/PHP-Legacy_King-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-Spaghetti_Maker-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-SELECT_*_FROM_HELL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  
   <br/>
-  <!-- The Mandor AI Badge -->
-  <img src="https://img.shields.io/badge/SKILL-MANDOR%20AI-ff0055?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt-Engineer-blueviolet?style=for-the-badge&logo=robot" />
-  <img src="https://img.shields.io/badge/Stack_Overflow-Copy%20%26%20Paste-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  
+  <!-- The Real Tools -->
+  <img src="https://img.shields.io/badge/Ctrl+C-Ctrl+V-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-THE_REAL_DEV-FF0055?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
 
 ---
 
-### 🧩 System Preferences (Hobbies)
+### 🌙 **AFK Activities (Escaping the Matrix)**
 
-When I'm not arguing with a compiler or an LLM, I'm usually optimizing my organic environment:
+I touch grass occasionally, but only under specific conditions.
 
-| **Protocol** | **Description** |
-| :--- | :--- |
-| **🐱 Feline Overlord** | Servant to a furry dictator. My code quality depends on his mood. |
-| **🌿 Aquascape Architect** | Building underwater utopias. It's like coding, but wet and peaceful. |
+| **Protocol: CAT_LORD** 🐈 | **Protocol: AQUASCAPE** 🌿 | **Protocol: MOUNTAINEER** 🏔️ |
+| :--- | :--- | :--- |
+| **Role:** Supervisor.<br>He sleeps on my keyboard to ensure I don't work too hard.<br>**Status:** *Judging.* | **Role:** Water Architect.<br>Like coding, but if you mess up parameters (pH/CO2), things die.<br>**Status:** *Zen.* | **Role:** Anti-Social Climber.<br>I climb mountains to avoid crowds. **Beaches are rejected**; they are just server rooms without AC (Too hot).<br>**Status:** *Offline.* |
+
+---
+
+### 📉 **Useless Internet Points**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="200" alt="Cat Coding" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6eW95Y3Z6eW95YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LpdlqTkgO2Lwwixwv7/giphy.gif" width="200" alt="Aquascape" />
-</div>
-
----
-
-### 📉 GitHub Analytics
-
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_MU&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-  *"It works on my machine."* - Ancient Developer Proverb
+  <!-- Minimalist Stats - Fast Load -->
+  <img src="https://github-readme-stats.vercel.app/api?username=arinadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arinadi Stats" />
   <br/>
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7XMjJKaf/giphy.gif" width="30">
-
+  <br/>
+  <!-- Visitor Counter but make it sarcastic -->
+  <sub>People who accidentally clicked my profile:</sub><br/>
+  <img src="https://komarev.com/ghpvc/?username=arinadi&label=VICTIMS&style=for-the-badge&color=red" alt="Victims" />
 </div>
+
+---
+
+### 🔓 **System Credits**
+
+```diff
++ Architect: Arinadi
++ Heavy Lifting: Agent.md
+! Note: Agent.md did the syntax, I did the thinking.
