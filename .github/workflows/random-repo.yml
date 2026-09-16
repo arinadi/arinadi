@@ -1,0 +1,37 @@
+name: Repo Roulette
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: repo-roulette
+  cancel-in-progress: false
+
+jobs:
+  roll:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pick a random side project
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/random_repo.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "repo-roulette[bot]"
+          git config user.email "actions@github.com"
+          if git diff --quiet; then
+            echo "no changes to commit"
+          else
+            git add README.md
+            git commit -m "🎲 Repo Roulette: roll the dice"
+            git push
+          fi

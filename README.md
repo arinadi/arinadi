@@ -5,7 +5,7 @@
 
   <!-- TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=git+blame+-L+12,20+main.php;Gameloft+JOG+Resident+Caffeine+Addict;Mercu+Buana+Survivor+(RIP+Sleep);Senior+Prompt+Engineer+(Mandor+AI)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=git+blame+-L+12,20+main.php;Gameloft+JOG+Resident+Caffeine+Addict;Mercu+Buana+Survivor+(RIP+Sleep);Senior+Prompt+Engineer+(Mandor+AI)" alt="Typing SVG" />
   </a>
 
 </div>
@@ -46,15 +46,30 @@ My workflow:
   <img src="https://img.shields.io/badge/PHP-Legacy_King-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JS-Spaghetti_Maker-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-SELECT_*_FROM_HELL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
+
   <br/>
-  
+
   <!-- The Real Tools -->
   <img src="https://img.shields.io/badge/Ctrl+C-Ctrl+V-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   <img src="https://img.shields.io/badge/AI-THE_REAL_DEV-FF0055?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Windows_11-blue?style=for-the-badge&logo=windows&logoColor=white" />
 
 </div>
+
+---
+
+### 🎲 **Repo Roulette (Side Project of the Moment)**
+
+The monkey's paw of my repo list. A new random side project gets thrown at the wall every day by GitHub Actions. Blame the roulette, not me.
+
+<!-- RANDOM_REPO:START -->
+<p align="center">
+  <a href="https://github.com/arinadi/My-Wordpress-Base-Theme-2021">
+    <img src="https://img.shields.io/badge/My--Wordpress--Base--Theme--2021-CSS%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="My-Wordpress-Base-Theme-2021" />
+  </a>
+</p>
+<p align="center"><i>No description, only vibes.</i></p>
+<!-- RANDOM_REPO:END -->
 
 ---
 
@@ -71,8 +86,8 @@ I touch grass occasionally, but only under specific conditions.
 ### 📉 **Useless Internet Points**
 
 <div align="center">
-  <!-- Minimalist Stats - Fast Load -->
-  <img src="https://github-readme-stats.vercel.app/api?username=arinadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Arinadi Stats" />
+  <!-- Minimalist Stats - Fast Load (gh-readme-profile, transparent bg) -->
+  <img src="https://gh-readme-profile.vercel.app/api?username=arinadi&bg_color=00000000&title_color=00f2ff&icon_color=00f2ff&text_color=8b949e&border_color=30363d&border_radius=10&hide_stroke=true&photo_resize=110" alt="Arinadi Stats" />
   <br/>
   <br/>
   <!-- Visitor Counter but make it sarcastic -->
@@ -86,5 +101,6 @@ I touch grass occasionally, but only under specific conditions.
 
 ```diff
 + Architect: Arinadi
-+ Heavy Lifting: Agent.md
-! Note: Agent.md did the syntax, I did the thinking.
++ Heavy Lifting: AGENTS.md
+! Note: AGENTS.md did the syntax, I did the thinking.
+```
