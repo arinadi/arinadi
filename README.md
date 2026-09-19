@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/rajaongkir">
-    <img src="https://img.shields.io/badge/rajaongkir-HTML%20%7C%20stars%201%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="rajaongkir" />
+  <a href="https://github.com/arinadi/Sembrani">
+    <img src="https://img.shields.io/badge/Sembrani-C%2B%2B%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="Sembrani" />
   </a>
 </p>
-<p align="center"><i>No description, only vibes.</i></p>
+<p align="center"><i>Sembrani Smart Moto Opensource Project based on ESP32</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
