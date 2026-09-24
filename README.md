@@ -64,8 +64,8 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/CSV-JSON-to-Column">
-    <img src="https://img.shields.io/badge/CSV--JSON--to--Column-Python%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="CSV-JSON-to-Column" />
+  <a href="https://github.com/arinadi/Jira-Logwork">
+    <img src="https://img.shields.io/badge/Jira--Logwork-TypeScript%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="Jira-Logwork" />
   </a>
 </p>
 <p align="center"><i>No description, only vibes.</i></p>
