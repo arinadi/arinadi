@@ -64,8 +64,8 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/Belajar-Wordpress-Theme">
-    <img src="https://img.shields.io/badge/Belajar--Wordpress--Theme-PHP%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="Belajar-Wordpress-Theme" />
+  <a href="https://github.com/arinadi/HotBell-Radio">
+    <img src="https://img.shields.io/badge/HotBell--Radio-Kotlin%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="HotBell-Radio" />
   </a>
 </p>
 <p align="center"><i>No description, only vibes.</i></p>
