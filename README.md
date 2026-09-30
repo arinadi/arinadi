@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/NextWP-lite">
-    <img src="https://img.shields.io/badge/NextWP--lite-TypeScript%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="NextWP-lite" />
+  <a href="https://github.com/arinadi/Open-GP-Client">
+    <img src="https://img.shields.io/badge/Open--GP--Client-Python%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="Open-GP-Client" />
   </a>
 </p>
-<p align="center"><i>No description, only vibes.</i></p>
+<p align="center"><i>A minimalist GTK4 desktop client for GlobalProtect VPN wi...</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
