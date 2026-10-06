@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/nanoFinBot">
-    <img src="https://img.shields.io/badge/nanoFinBot-Python%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="nanoFinBot" />
+  <a href="https://github.com/arinadi/PingPong2D-Unity3D">
+    <img src="https://img.shields.io/badge/PingPong2D--Unity3D-misc%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="PingPong2D-Unity3D" />
   </a>
 </p>
-<p align="center"><i>No description, only vibes.</i></p>
+<p align="center"><i>belajar game unity3d</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
