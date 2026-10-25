@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/NodeJS-Task4-Templating-EJS">
-    <img src="https://img.shields.io/badge/NodeJS--Task4--Templating--EJS-CSS%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="NodeJS-Task4-Templating-EJS" />
+  <a href="https://github.com/arinadi/SMP-Laravue">
+    <img src="https://img.shields.io/badge/SMP--Laravue-PHP%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="SMP-Laravue" />
   </a>
 </p>
-<p align="center"><i>No description, only vibes.</i></p>
+<p align="center"><i>Social Media Platform build with Laravel and Vue</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
