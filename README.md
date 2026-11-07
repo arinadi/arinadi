@@ -64,8 +64,8 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/simple-express-template">
-    <img src="https://img.shields.io/badge/simple--express--template-HTML%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="simple-express-template" />
+  <a href="https://github.com/arinadi/My-termux-widget">
+    <img src="https://img.shields.io/badge/My--termux--widget-Shell%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="My-termux-widget" />
   </a>
 </p>
 <p align="center"><i>No description, only vibes.</i></p>
