@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/My-termux-widget">
-    <img src="https://img.shields.io/badge/My--termux--widget-Shell%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="My-termux-widget" />
+  <a href="https://github.com/arinadi/SushiVideo">
+    <img src="https://img.shields.io/badge/SushiVideo-Python%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="SushiVideo" />
   </a>
 </p>
-<p align="center"><i>No description, only vibes.</i></p>
+<p align="center"><i>An AI-powered, zero-cost YouTube video clipper running on...</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
