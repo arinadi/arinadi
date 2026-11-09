@@ -64,11 +64,11 @@ The monkey's paw of my repo list. A new random side project gets thrown at the w
 
 <!-- RANDOM_REPO:START -->
 <p align="center">
-  <a href="https://github.com/arinadi/SushiVideo">
-    <img src="https://img.shields.io/badge/SushiVideo-Python%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="SushiVideo" />
+  <a href="https://github.com/arinadi/ArduinoBrige-HttpSerialPy">
+    <img src="https://img.shields.io/badge/ArduinoBrige--HttpSerialPy-C%2B%2B%20%7C%20stars%200%20%7C%20forks%200-0d1117?style=for-the-badge&logo=github&logoColor=00f2ff" alt="ArduinoBrige-HttpSerialPy" />
   </a>
 </p>
-<p align="center"><i>An AI-powered, zero-cost YouTube video clipper running on...</i></p>
+<p align="center"><i>Connect Arduino to USB (Serial) and control it from web b...</i></p>
 <!-- RANDOM_REPO:END -->
 
 ---
